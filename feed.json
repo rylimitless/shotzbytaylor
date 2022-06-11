@@ -13,8 +13,8 @@
             "id": "https://rylimitless.github.io/shotzbytaylor/ocean-shot.html",
             "url": "https://rylimitless.github.io/shotzbytaylor/ocean-shot.html",
             "title": "Ocean Shot",
-            "summary": "Nature Happiness Comes in Waves&nbsp;",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://rylimitless.github.io/shotzbytaylor/media/posts/3/73a22251-7cba-430d-bcdb-96e779e063ad-1-2.jpeg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rylimitless.github.io/shotzbytaylor/media/posts/3/responsive/73a22251-7cba-430d-bcdb-96e779e063ad-1-2-xs.jpeg 300w ,https://rylimitless.github.io/shotzbytaylor/media/posts/3/responsive/73a22251-7cba-430d-bcdb-96e779e063ad-1-2-sm.jpeg 480w ,https://rylimitless.github.io/shotzbytaylor/media/posts/3/responsive/73a22251-7cba-430d-bcdb-96e779e063ad-1-2-md.jpeg 768w ,https://rylimitless.github.io/shotzbytaylor/media/posts/3/responsive/73a22251-7cba-430d-bcdb-96e779e063ad-1-2-lg.jpeg 1024w\"  height=\"1081\" width=\"1050\" alt=\"\" />\n      <figcaption>Nature </figcaption>\n    </figure>\n\n  <p>\n    Happiness Comes in Waves&nbsp;\n  </p>",
+            "summary": "Happiness Comes in Waves&nbsp;",
+            "content_html": "\n  <p>\n    Happiness Comes in Waves&nbsp;\n  </p>\n\n  <p>\n    \n  </p>",
             "image": "https://rylimitless.github.io/shotzbytaylor/media/posts/3/73a22251-7cba-430d-bcdb-96e779e063ad-1.jpeg",
             "author": {
                 "name": "Taylor"
@@ -22,14 +22,14 @@
             "tags": [
             ],
             "date_published": "2022-06-10T20:34:47-05:00",
-            "date_modified": "2022-06-10T20:36:10-05:00"
+            "date_modified": "2022-06-10T21:07:11-05:00"
         },
         {
             "id": "https://rylimitless.github.io/shotzbytaylor/sunset.html",
             "url": "https://rylimitless.github.io/shotzbytaylor/sunset.html",
             "title": "Sunset",
             "summary": "Another photo of a sunset",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://rylimitless.github.io/shotzbytaylor/media/posts/2/a015a577-553f-443d-9eec-0b8cb81be775.jpeg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rylimitless.github.io/shotzbytaylor/media/posts/2/responsive/a015a577-553f-443d-9eec-0b8cb81be775-xs.jpeg 300w ,https://rylimitless.github.io/shotzbytaylor/media/posts/2/responsive/a015a577-553f-443d-9eec-0b8cb81be775-sm.jpeg 480w ,https://rylimitless.github.io/shotzbytaylor/media/posts/2/responsive/a015a577-553f-443d-9eec-0b8cb81be775-md.jpeg 768w ,https://rylimitless.github.io/shotzbytaylor/media/posts/2/responsive/a015a577-553f-443d-9eec-0b8cb81be775-lg.jpeg 1024w\"  height=\"1064\" width=\"1064\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    Another photo of a sunset\n  </p>\n\n  <p>\n    \n  </p>",
+            "content_html": "\n  <p>\n    Another photo of a sunset\n  </p>\n\n  <p>\n    \n  </p>",
             "image": "https://rylimitless.github.io/shotzbytaylor/media/posts/2/a015a577-553f-443d-9eec-0b8cb81be775-2.jpeg",
             "author": {
                 "name": "Taylor"
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2022-06-10T20:30:44-05:00",
-            "date_modified": "2022-06-10T20:36:31-05:00"
+            "date_modified": "2022-06-10T21:07:28-05:00"
         },
         {
             "id": "https://rylimitless.github.io/shotzbytaylor/gallery.html",
